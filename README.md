@@ -7,8 +7,10 @@ En GitHub, los cambios guardados se llaman commits (confirmaciones). Cada commit
 
 Pull Requests es el corazón de la colaboración en GitHub. Cuando abre una demanda de comentarios, está proponiendo sus cambios y solicitando que alguien revise y obtenga su contribución y la fusione en su sucursal. La demanda de comentarios muestran diffs (diferencias del contenido de ambas ramas). Los cambios, las adiciones y las restas se muestran en verde y rojo.
 
-Tan pronto como realice un commit puede abrir una solicitud de extracción e iniciar una discusión, incluso antes de que finalice el código.
-
-Al utilizar el sistema @mention de GitHub en su mensaje de solicitud de extracción, puede solicitar comentarios de personas o equipos específicos, ya sea que estén al final del pasillo o a 10 zonas horarias de distancia.
+Tan pronto como realice un commit puede abrir una solicitud de extracción e iniciar una discusión, incluso antes de que finalice el código. Al utilizar el sistema @mention de GitHub en su mensaje de solicitud de extracción, puede solicitar comentarios de personas o equipos específicos, ya sea que estén al final del pasillo o a 10 zonas horarias de distancia.
 
 Incluso puede abrir solicitudes de extracción en su propio repositorio y fusionarlas usted mismo. Es una excelente manera de aprender el flujo de GitHub antes de trabajar en proyectos más grandes.
+
+Recordar que después de fuisonar una rama, se debería borrar por limpieza.
+
+
