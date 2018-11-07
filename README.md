@@ -13,4 +13,6 @@ Incluso puede abrir solicitudes de extracción en su propio repositorio y fusion
 
 Recordar que después de fuisonar una rama, se debería borrar por limpieza.
 
+Continuar con: https://guides.github.com/introduction/flow/
+
 
