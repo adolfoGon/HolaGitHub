@@ -1,3 +1,3 @@
 # HolaGitHub
-Pratica para tomar contacto con GitHub
-siguiendo instrucciones de: https://guides.github.com/activities/hello-world/ 
+Practica para tomar contacto con GitHub.
+Siguiendo instrucciones de: https://guides.github.com/activities/hello-world/ 
